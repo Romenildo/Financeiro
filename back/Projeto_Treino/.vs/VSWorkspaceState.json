@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Domain",
+    "\\Domain\\Interfaces",
+    "\\Domain\\Interfaces\\Generics",
+    "\\Domain\\Interfaces\\ICategoria",
+    "\\Domain\\Interfaces\\InterfaceServicos"
   ],
-  "SelectedNode": "\\Projeto_Treino.sln",
+  "SelectedNode": "\\Domain\\Interfaces\\Generics\\InterfaceGeneric.cs",
   "PreviewInSolutionExplorer": false
 }
