@@ -1,12 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Domain",
-    "\\Domain\\Interfaces",
     "\\Domain\\Interfaces\\Generics",
     "\\Domain\\Interfaces\\ICategoria",
-    "\\Domain\\Interfaces\\InterfaceServicos"
+    "\\Domain\\Interfaces\\InterfaceServicos",
+    "\\Entities",
+    "\\Entities\\Entidades",
+    "\\infraestrutura"
   ],
-  "SelectedNode": "\\Domain\\Interfaces\\Generics\\InterfaceGeneric.cs",
+  "SelectedNode": "\\Entities\\Entidades\\Despesa.cs",
   "PreviewInSolutionExplorer": false
 }
